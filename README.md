@@ -34,9 +34,17 @@ http://ejemplostream.com/stream1
 http://ejemplostream.com/stream1
 ```
 
-5. Incluir Información del País
+6. Incluir Información del País
 
 ```sh
 #EXTINF:-1 tvg-country="ES", Canal 1
+http://ejemplostream.com/stream1
+```
+
+7. Añadir Información EPG (Guía Electrónica de Programas)
+Source: [https://epg.best/https://epg.best/available-channels](https://epg.best/available-channels)
+   
+```sh
+#EXTINF:-1 tvg-id="canal1epg", Canal 1
 http://ejemplostream.com/stream1
 ```
