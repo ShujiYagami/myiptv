@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5Nacional.mx" tvg-language="Español" tvg-country="MX" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="General" tvg-name="Canal 5",Canal 5 (1080p)
+#EXTINF:-1 tvg-id="5Nacional.mx" tvg-language="Español" tvg-country="MX" tvg-logo="https://github.com/ShujiYagami/myiptv/blob/main/logos/5Nacional.mx.png" group-title="General" tvg-name="Canal 5",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="News",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
