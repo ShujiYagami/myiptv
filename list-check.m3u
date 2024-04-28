@@ -1,4 +1,4 @@
 #EXTM3U url-tvg="https://nzxmltv.com/iptv/redbull.xml"
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://example.com/logo.png" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
