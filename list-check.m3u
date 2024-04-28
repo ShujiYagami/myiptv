@@ -1,10 +1,4 @@
-#EXTM3U
-#EXTINF:-1,Red Bull TV HD
-#EXTGRP:Sports
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,Turkmenistan Sport HD
-#EXTGRP:Sports
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,Astrakhanru Sport HD
+#EXTM3U url-tvg="https://nzxmltv.com/iptv/redbull.xml"
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://example.com/logo.png" group-title="Sports",Red Bull TV
 #EXTGRP:Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
