@@ -105,6 +105,8 @@ https://ythls.armelin.one/channel/UCWnOKASPkCBEL-_O8odMvtg.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 #EXTINF:-1 tvg-country="JP" tvg-id="MoviePlus.jp" tvg-language="jpn",Movie Plus (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 tvg-country="JP" tvg-id="MTV.jp" tvg-language="jpn",MTV Japan (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 tvg-country="JP" tvg-id="MusicJapanTV.jp" tvg-language="jpn",Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-country="JP" tvg-id="NHKBS.jp" tvg-language="jpn",NHK BS (544p)
