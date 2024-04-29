@@ -21,7 +21,7 @@ http://ejemplostream.com/noticias
 http://ejemplostream.com/deportes
 ```
 
-4. Añadir Información EPG (Guía Electrónica de Programas)
+4. Añadir Grupos de Canales (alternativa a group-title)
 ```sh
 #EXTINF:-1 group-title="Noticias", Canal de Noticias
 #EXTGRP:Noticias
