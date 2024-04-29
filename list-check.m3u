@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://nzxmltv.com/iptv/redbull.xml"
-#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV
-#EXTGRP:Sports
+#EXTM3U
+#EXTINF:-1 tvg-country="MX" tvg-id="ViXParejas.mx" tvg-language="spa",ViX Parejas
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
