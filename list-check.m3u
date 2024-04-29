@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-country="MX" tvg-id="8NTV.mx" tvg-language="spa" group-title="General",8NTV (1080p)
 #EXTGRP:General
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="XHSDDTDT.mx" tvg-language="spa" group-title="Undefined",15tv Sabinas (XHSDD-TDT) (360p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="XHSDDTDT.mx" tvg-language="spa" group-title="General",15tv Sabinas (XHSDD-TDT) (360p)
+#EXTGRP:General
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="APlus.mx" tvg-language="spa" group-title="Culture",A+ (480p)
 #EXTGRP:Culture
@@ -11,9 +11,6 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="ADN40.mx" tvg-language="spa" group-title="News",ADN 40 (720p)
 #EXTGRP:News
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="Afizzionados.mx" tvg-language="spa" group-title="Sports",Afizzionados (576p)
-#EXTGRP:Sports
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="AlcanceTV.mx" tvg-language="spa" group-title="Religious",Alcance TV (720p)
 #EXTGRP:Religious
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
@@ -320,11 +317,11 @@ https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="RalyTV.mx" tvg-language="spa" group-title="General",Raly TV (720p)
 #EXTGRP:General
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="RCGTV.mx" tvg-language="spa" group-title="Undefined",RCG TV (1080p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="RCGTV.mx" tvg-language="spa" group-title="General",RCG TV (1080p)
+#EXTGRP:General
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Undefined",RCG TV (Timeshifted -2 Hours) (432p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="General",RCG TV (Timeshifted -2 Hours) (432p)
+#EXTGRP:General
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="RCNMas.co" tvg-language="spa" group-title="Entertainment",RCN Mas
 #EXTGRP:Entertainment
@@ -332,14 +329,14 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="RCNXtra.co" tvg-language="spa" group-title="Entertainment",RCN Xtra (1080p)
 #EXTGRP:Entertainment
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="RTQQueretaro.mx" tvg-language="spa" group-title="Undefined",RTQ Queretaro
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="RTQQueretaro.mx" tvg-language="spa" group-title="General",RTQ Queretaro
+#EXTGRP:General
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="XHUNESTDT.mx" tvg-language="spa" group-title="Education",Señal España (XHUNES-TDT) (720p)
 #EXTGRP:Education
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="XHPBZCTDT1.mx" tvg-language="spa" group-title="Undefined",SET Televisión Canal 26.1 (720p) [Not 24/7]
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="XHPBZCTDT1.mx" tvg-language="spa" group-title="General",SET Televisión Canal 26.1 (720p) [Not 24/7]
+#EXTGRP:General
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="XHPBZCTDT2.mx" tvg-language="spa" group-title="Education",SET Televisión Canal 26.2 (720p) [Not 24/7]
 #EXTGRP:Education
@@ -356,8 +353,8 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="SomosCulturaTV.pa" tvg-language="spa" group-title="Culture",Somos Cultura TV (720p)
 #EXTGRP:Culture
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="Undefined",Spike Adventura (720p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-language="spa" group-title="General",Spike Adventura (720p)
+#EXTGRP:General
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-country="MX" tvg-id="SuperChannel12.mx" tvg-language="spa" group-title="General",Super Channel 12 (1080p)
 #EXTGRP:General
@@ -365,8 +362,8 @@ https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TastemadeenEspanol.us" tvg-language="spa" group-title="Cooking",Tastemade en Español (1080p)
 #EXTGRP:Cooking
 https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="TeleFormula.mx" tvg-language="spa" group-title="Undefined",Teleformula (720p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="TeleFormula.mx" tvg-language="spa" group-title="News",Teleformula (720p)
+#EXTGRP:News
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TeleHit.mx" tvg-language="spa" group-title="Music",Telehit (576p)
 #EXTGRP:Music
@@ -374,14 +371,14 @@ https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TelehitMusica.mx" tvg-language="spa" group-title="Music",Telehit Música (576p)
 #EXTGRP:Music
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="XEWHTDT.mx" tvg-language="spa" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="XEWHTDT.mx" tvg-language="spa" group-title="General",Telemax (XEWH-TDT) (1080p)
+#EXTGRP:General
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TeleplaySureste.mx" tvg-language="spa" group-title="Entertainment",Teleplay Sureste (720p)
 #EXTGRP:Entertainment
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="Teleritmo.mx" tvg-language="spa" group-title="Undefined",Teleritmo (720p) [Not 24/7]
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="Teleritmo.mx" tvg-language="spa" group-title="Music",Teleritmo (720p) [Not 24/7]
+#EXTGRP:Music
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TelevisaAguascalientes.mx" tvg-language="spa" group-title="General",Televisa Aguascalientes (720p) [Not 24/7]
 #EXTGRP:General
@@ -506,11 +503,11 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TVUJAT.mx" tvg-language="spa" group-title="Education",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
 #EXTGRP:Education
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="TVMas.mx" tvg-language="spa" group-title="Undefined",TVMás (720p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="TVMas.mx" tvg-language="spa" group-title="General",TVMás (720p)
+#EXTGRP:General
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="XHGVTDT.mx" tvg-language="spa" group-title="Undefined",TVMás (XHGV-TDT) (360p) [Not 24/7]
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="XHGVTDT.mx" tvg-language="spa" group-title="General",TVMás (XHGV-TDT) (360p) [Not 24/7]
+#EXTGRP:General
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="TVPCuliacan.mx" tvg-language="spa" group-title="General",TVP Culiacán (720p) [Not 24/7]
 #EXTGRP:General
@@ -530,17 +527,17 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/i
 #EXTINF:-1 tvg-country="MX" tvg-id="TVQSports.gt" tvg-language="spa" group-title="Sports",TVQ Sports (720p)
 #EXTGRP:Sports
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="UCL.uy" tvg-language="spa" group-title="Undefined",UCL (720p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="UCL.uy" tvg-language="spa" group-title="General",UCL (720p)
+#EXTGRP:General
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="UltraTVPuebla.mx" tvg-language="spa" group-title="Undefined",Ultra TV Puebla (720p) [Not 24/7]
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="UltraTVPuebla.mx" tvg-language="spa" group-title="Music",Ultra TV Puebla (720p) [Not 24/7]
+#EXTGRP:Music
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="UMTV.mx" tvg-language="spa" group-title="Undefined",UMTV (1080p) [Not 24/7]
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="UMTV.mx" tvg-language="spa" group-title="General",UMTV (1080p) [Not 24/7]
+#EXTGRP:General
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="Unicable.mx" tvg-language="spa" group-title="Undefined",Unicable (576p)
-#EXTGRP:Undefined
+#EXTINF:-1 tvg-country="MX" tvg-id="Unicable.mx" tvg-language="spa" group-title="General",Unicable (576p)
+#EXTGRP:General
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="UnivisionPanregional.mx" tvg-language="spa" group-title="General",Univision Panregional (576p)
 #EXTGRP:General
