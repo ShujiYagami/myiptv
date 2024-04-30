@@ -58,3 +58,8 @@ Source: [https://epg.best/https://epg.best/available-channels](https://epg.best/
 #EXTINF:-1 tvg-id="canal1epg", Canal 1
 http://ejemplostream.com/stream1
 ```
+
+9. Añadir XML de EPG
+```sh
+#EXTM3U x-tvg-url="https://xmltv.net/guides/default.xml, https://xmltv.net/guides/channel-guide.xml"
+```
