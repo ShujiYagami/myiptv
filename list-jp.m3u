@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml, https://xmltv.tvkaista.net/guides/www3.nhk.or.jp.xml"
 #EXTINF:-1 tvg-country="JP" tvg-id="Animax.jp" tvg-language="jpn",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-country="JP" tvg-id="JapaNews24.jp" tvg-language="jpn",ANN JapaNews24 (720p) [Not 24/7]
