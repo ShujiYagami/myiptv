@@ -8,17 +8,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d
 #EXTINF:-1 group-title="VOD",80s Rewind
 #EXTGRP:VOD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-country="MX" tvg-id="8NTV.mx" tvg-language="spa" group-title="General",8NTV (1080p)
-#EXTGRP:General
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 group-title="VOD",90s Throwback
 #EXTGRP:VOD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" group-title="Sports",A Spor (1080p) [Not 24/7]
-#EXTGRP:Sports
-https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="APlus.mx" tvg-language="spa" group-title="Culture",A+ (480p)
 #EXTGRP:Culture
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -34,12 +28,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/in
 #EXTINF:-1 tvg-country="MX" tvg-id="ADN40.mx" tvg-language="spa" group-title="News",ADN 40 (720p)
 #EXTGRP:News
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-id="AioSport1.ir" group-title="Sports",Aio Sport 1
-#EXTGRP:Sports
-https://live.aionet.ir/hls/aiosport/aiosport.m3u8
-#EXTINF:-1 tvg-id="AioSport2.ir" group-title="Sports",Aio Sport 2
-#EXTGRP:Sports
-https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="AlcanceTV.mx" tvg-language="spa" group-title="Religious",Alcance TV (720p)
 #EXTGRP:Religious
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
@@ -48,18 +36,9 @@ http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="AlfaSport.cy" group-title="Sports",Alfa Sport (1080p) [Not 24/7]
 #EXTGRP:Sports
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-id="AllSports.br" group-title="Sports",All Sports (720p)
-#EXTGRP:Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="AMXNoticias.mx" tvg-language="spa" group-title="News",AMX Noticias (720p) [Not 24/7]
 #EXTGRP:News
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="Animax.jp" tvg-language="jpn" group-title="Animation",Animax (544p)
-#EXTGRP:Animation
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-country="MX" tvg-id="AnimeZoneTV.do" tvg-language="spa" group-title="Animation",Anime Zone TV (480p)
-#EXTGRP:Animation
-http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-id="JapaNews24.jp" tvg-language="jpn" group-title="News",ANN JapaNews24 (720p) [Not 24/7]
 #EXTGRP:News
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
@@ -69,15 +48,6 @@ https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" group-title="Sports",AntenaSport (720p) [Not 24/7]
 #EXTGRP:Sports
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="JOAIDTV.jp" tvg-language="jpn" group-title="Undefined",Aomori TV (1080p) [Not 24/7]
-#EXTGRP:Undefined
-https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" group-title="Sports",Arryadia (360p) [Not 24/7]
-#EXTGRP:Sports
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="AsahiShimbunDigital.jp" tvg-language="jpn" group-title="News",Asahi Shimbun Digital (1080p) [Not 24/7]
-#EXTGRP:News
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" group-title="Sports",Astrahan Ru Sport (720p)
 #EXTGRP:Sports
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
@@ -86,9 +56,6 @@ http://208.86.19.13:81/720.stream/index.m3u8
 #EXTINF:-1 tvg-id="ATG.se" group-title="Sports",ATG (432p)
 #EXTGRP:Sports
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 group-title="Sports",ATV +
-#EXTGRP:Sports
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AwapaSportsTV.sv" group-title="Sports",Awapa Sports TV (1080p) [Not 24/7]
 #EXTGRP:Sports
 https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
@@ -107,9 +74,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
 #EXTGRP:Sports
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="Bandamax.mx" tvg-language="spa" group-title="Music",Bandamax
-#EXTGRP:Music
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="BBCNewsNorthAmerica.uk" tvg-language="spa" group-title="News",BBC News (North America) (1080p)
 #EXTGRP:News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -123,7 +87,7 @@ http://175.107.244.52:4455/play/a021/index.m3u8
 http://175.107.244.52:4457/play/a06x/index.m3u8
 #EXTINF:-1,Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8
-#EXTINF:-1 group-title="Sports",Bein Sports
+#EXTINF:-1 group-title="Sports",Bein Sports m3u8
 #EXTGRP:Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
 #EXTINF:-1 group-title="Sports",beIN Sports 2 English HD
@@ -144,7 +108,7 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 #EXTINF:-1 group-title="Sports",BELARUS 5
 #EXTGRP:Sports
 http://82.209.197.187:8080/udp/239.0.100.9:1234
-#EXTINF:-1 group-title="Sports",BELARUS 5
+#EXTINF:-1 group-title="Sports",BELARUS 5 m3u8
 #EXTGRP:Sports
 http://rn2yfxko.tvclub.xyz/iptv/ZWYUW9CXCYH4ZV/5060/index.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus 5 (1080p) [Not 24/7]
@@ -402,7 +366,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 tvg-country="MX" tvg-id="ElNu9ve.mx" tvg-language="spa" group-title="Entertainment",El NU9VE (1080p)
 #EXTGRP:Entertainment
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 tvg-country="ElNu9ve.mx",El NU9VE (1080p)
+#EXTINF:-1 tvg-country="ElNu9ve.mx",El NU9VE (1080p) Frequency
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="EnerGeek.cl" tvg-language="spa" group-title="Animation",EnerGeek (720p) [Not 24/7]
 #EXTGRP:Animation
@@ -850,7 +814,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-country="NPlusMedia.mx",NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="NPlusMedia.mx" tvg-language="spa" group-title="News",NMás Media (1080p)
+#EXTINF:-1 tvg-country="MX" tvg-id="NPlusMedia.mx" tvg-language="spa" group-title="News",NMás Media (1080p) Alter
 #EXTGRP:News
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="NNVeracruz.mx" tvg-language="spa" group-title="News",NNVeracruz (640p)
@@ -868,10 +832,10 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="NRTMexicoRegionSureste.mx" tvg-language="spa" group-title="News",NRT México Región Sureste (720p)
 #EXTGRP:News
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="NTVNEWS24.jp" tvg-language="jpn" group-title="News",NTV News24 (480p)
+#EXTINF:-1 tvg-country="JP" tvg-id="NTVNEWS24.jp" tvg-language="jpn" group-title="News",NTV News24 (480p) Ch01
 #EXTGRP:News
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="NTVNEWS24.jp" tvg-language="jpn",NTV News24 (480p)
+#EXTINF:-1 tvg-country="JP" tvg-id="NTVNEWS24.jp" tvg-language="jpn",NTV News24 (480p) Ch02
 https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 #EXTINF:-1 tvg-country="NueveTV.mx",Nueve TV San Luis Potosí­ (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
@@ -938,7 +902,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVComedyCentralLatino.us" tvg-language="spa",Pluto TV Comedy Central Latino (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVComedyCentralLatino.us" tvg-language="spa",Pluto TV Comedy Central Latino (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVComedyCentralLatino.us" tvg-language="spa",Pluto TV Comedy Central Latino (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVCompetencias.us" tvg-language="spa",Pluto TV Competencias (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -1000,7 +964,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de30007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-language="spa",Pluto TV Los archivos del FBI (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-language="spa",Pluto TV Los archivos del FBI (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-language="spa",Pluto TV Los archivos del FBI (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVLosnuevosdetectives.us" tvg-language="spa",Pluto TV Los nuevos detectives (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -1008,7 +972,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-country="MX" tvg-id="LuchaLibreAAA.us" tvg-language="spa",Pluto TV Lucha Libre AAA (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="LuchaLibreAAA.us" tvg-language="spa",Pluto TV Lucha Libre AAA (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="LuchaLibreAAA.us" tvg-language="spa",Pluto TV Lucha Libre AAA (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMinutoParaGanar.us" tvg-language="spa",Pluto TV Minuto Para Ganar (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -1029,19 +993,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMTVLatino.us" tvg-language="spa",Pluto TV MTV Latino (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMTVLatino.us" tvg-language="spa",Pluto TV MTV Latino (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMTVLatino.us" tvg-language="spa",Pluto TV MTV Latino (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMTVTattooADos.us" tvg-language="spa",Pluto TV MTV Tattoo A Dos (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMundo.us" tvg-language="spa",Pluto TV Mundo (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d103f031154a4172d262b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=959&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMundo.us" tvg-language="spa",Pluto TV Mundo (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMundo.us" tvg-language="spa",Pluto TV Mundo (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVMutanteX.us" tvg-language="spa",Pluto TV Mutante X (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNaturaleza.us" tvg-language="spa",Pluto TV Naturaleza (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNaturaleza.us" tvg-language="spa",Pluto TV Naturaleza (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNaturaleza.us" tvg-language="spa",Pluto TV Naturaleza (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNaturaleza.us" tvg-language="spa",Pluto TV Naturaleza (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
@@ -1050,7 +1014,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:-1 tvg-country="MX" tvg-id="NickClasico.us" tvg-language="spa",Pluto TV Nick ClÃ¡sico (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="NickClasico.us" tvg-language="spa",Pluto TV Nick ClÃ¡sico (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="NickClasico.us" tvg-language="spa",Pluto TV Nick ClÃ¡sico (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="NickJrenEspanol.us" tvg-language="spa",Pluto TV Nick Latino (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
@@ -1064,13 +1028,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasRomance.us" tvg-language="spa",Pluto TV Novelas Romance (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasRomance.us" tvg-language="spa",Pluto TV Novelas Romance (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasRomance.us" tvg-language="spa",Pluto TV Novelas Romance (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasRomance.us" tvg-language="spa",Pluto TV Novelas Romance (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasThriller.us" tvg-language="spa",Pluto TV Novelas Thriller (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=
-#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasThriller.us" tvg-language="spa",Pluto TV Novelas Thriller (720p)
+#EXTINF:-1 tvg-country="MX" tvg-id="PlutoTVNovelasThriller.us" tvg-language="spa",Pluto TV Novelas Thriller (720p) v1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-country="MX" tvg-id="NuestraVision.us" tvg-language="spa",Pluto TV Nuestra Vision (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e6690befbdf780007f78158&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=920&terminate=false&userId=
@@ -1294,9 +1256,6 @@ https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 #EXTINF:-1 tvg-id="SportsConnect.za" group-title="Sports",Sports Connect (720p)
 #EXTGRP:Sports
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Sports TV
-#EXTGRP:Sports
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 group-title="Sports",SPORTS TV
 #EXTGRP:Sports
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -1452,10 +1411,10 @@ https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 #EXTINF:-1 group-title="Sports",Tennis Channel
 #EXTGRP:Sports
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Sports",Tennis Channel
+#EXTINF:-1 group-title="Sports",Tennis Channel 720p
 #EXTGRP:Sports
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="Sports",Tennis Channel
+#EXTINF:-1 group-title="Sports",Tennis Channel 540p
 #EXTGRP:Sports
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="Tevex.cl" tvg-language="spa" group-title="Business",Tevex (720p) [Not 24/7]
@@ -1479,16 +1438,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 tvg-country="JP" tvg-id="JOMXDTV.jp" tvg-language="jpn" group-title="Undefined",Tokyo MX1 (544p)
 #EXTGRP:Undefined
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-country="JP" tvg-id="TokyoMX1.jp" tvg-language="jpn" group-title="Undefined",Tokyo MX1 (720p)
-#EXTGRP:Undefined
-https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="TokyoMX1.jp" tvg-language="jpn",Tokyo MX1 (720p)
-https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="TokyoMX2.jp" tvg-language="jpn" group-title="Undefined",Tokyo MX2 (720p)
-#EXTGRP:Undefined
-https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
-#EXTINF:-1 tvg-country="JP" tvg-id="TokyoMX2.jp" tvg-language="jpn",Tokyo MX2 (720p)
-https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-id="TOSNews.jp" tvg-language="jpn" group-title="News",TOS News (1080p) [Not 24/7]
 #EXTGRP:News
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
@@ -1522,13 +1471,13 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-id="TulipTVYouTube.jp" tvg-language="jpn" group-title="Undefined",Tulip TV (Youtube) (720p) [Not 24/7]
 #EXTGRP:Undefined
 https://ythls.armelin.one/channel/UCk4bgav5X0rlbGefFnPcuoQ.m3u8
-#EXTINF:-1 group-title="Sports",Turkmenistan Sport
+#EXTINF:-1 group-title="Sports",Turkmenistan Sport Source 1
 #EXTGRP:Sports
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Sports",Turkmenistan Sport
+#EXTINF:-1 group-title="Sports",Turkmenistan Sport Source 2
 #EXTGRP:Sports
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Sports",Turkmenistan Sport
+#EXTINF:-1 group-title="Sports",Turkmenistan Sport Source  3
 #EXTGRP:Sports
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-country="JP" tvg-id="JOEXDTV.jp" tvg-language="jpn" group-title="Undefined",TV Asahi (544p)
@@ -1639,7 +1588,7 @@ https://lnc-sportswire.tubi.video/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Uzbekistan Sport
 #EXTGRP:Sports
 http://ed42ca9f.edmonst.net/iptv/EPPBUUVM9QC84R/2239/index.m3u8
-#EXTINF:-1 group-title="Sports",Uzbekistan Sport
+#EXTINF:-1 group-title="Sports",Uzbekistan Sport Amazzin
 #EXTGRP:Sports
 http://082dd340.amazzin.pw/iptv/GGP3ZAYPXGWHWL/2239/index.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="VBMediaTV.mx" tvg-language="spa" group-title="General",VB Media TV (1080p)
@@ -1657,15 +1606,6 @@ https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="VisionTelevision.mx" tvg-language="spa" group-title="Music",Visión Televisión (720p)
 #EXTGRP:Music
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-country="MX" tvg-id="ViXJajaja.mx" tvg-language="spa" group-title="Comedy",ViX Jajaja (1080p)
-#EXTGRP:Comedy
-https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="ViXJajaja.mx" tvg-id="ViXJajaja.mx" tvg-language="spa" group-title="Comedy",ViX Jajaja (1080p)
-#EXTGRP:Comedy
-https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-country="ViXJajaja.mx" tvg-id="ViXJajaja.mx" tvg-language="spa" group-title="Comedy",ViX Jajaja (1080p)
-#EXTGRP:Comedy
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-id="ViXParejas.mx" tvg-language="spa" group-title="Entertainment",ViX Parejas (1080p)
 #EXTGRP:Entertainment
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
