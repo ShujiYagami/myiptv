@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-country="MX" tvg-id="Azteca7.mx" tvg-language="spa",Azteca 7 (720p) [Geo-blocked]
+#EXTM3U
+#EXTINF:-1 tvg-country="MX" tvg-id="Azteca7.mx" tvg-language="spa" tvg-logo="logos/5Nacional.mx.png", Azteca 7 (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
