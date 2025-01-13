@@ -65,4 +65,5 @@ http://ejemplostream.com/stream1
 ```
 
 IPTV Sources:
-[iptv-org](https://iptv-org.github.io/?q=country:MX%20streams:%3E1)
+* [iptv-org](https://iptv-org.github.io/?q=country:MX%20streams:%3E1)
+* [IPTV Web](https://iptv-web.app/#MX)
