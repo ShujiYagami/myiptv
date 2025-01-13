@@ -63,3 +63,6 @@ http://ejemplostream.com/stream1
 ```sh
 #EXTM3U x-tvg-url="https://xmltv.net/guides/default.xml, https://xmltv.net/guides/channel-guide.xml"
 ```
+
+IPTV Sources:
+[iptv-org](https://iptv-org.github.io/?q=country:MX%20streams:%3E1)
